@@ -29,5 +29,7 @@ assert Fibonacci.getN(3) == 1
 assert Fibonacci.getN(4) == 2
 assert Fibonacci.getN(5) == 3
 assert Fibonacci.getN(6) == 5
+assert Fibonacci.getN(7) == 8
+assert Fibonacci.getN(8) == 13
 
 println Fibonacci.getN(50)
